@@ -26,7 +26,7 @@ if regist:
     if namecheck == "Ingrid Da Silva Rangel E Souza":
         st.write('UOOOU, você é o amor da minha vida!!')
         time.sleep(2)
-        st.switch_page("pages/1_linhatempo.py")   
+        st.switch_page("https://linhatempo.streamlit.app/")   
     if namecheck == 'Ingrid':
         st.write('Hmmmmm, diga mais')
     elif namecheck != 'Ingrid' and namecheck != 'Ingrid Da Silva Rangel E Souza':

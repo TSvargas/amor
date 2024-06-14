@@ -42,10 +42,10 @@ with tab3:
     st.subheader('Eu dando em cima de você e tu tb KKKKKKKKKKK')
     col1, col2, col3, col4 = st.columns(4)
     with col1:
-        st.image("rs.png", width= 200)
+        st.image("rs.png", width= 300)
     with col3:
-        st.image('ataque1.png', width= 200)
-    st. image('ataque2.png', width= 200)
+        st.image('ataque1.png', width= 300)
+    st. image('ataque2.png', width= 300)
 
 with tab4:
     st.subheader('Nosso primeiro encontro :sob: :heart: :heart:')
@@ -116,6 +116,10 @@ with tab13:
     st.subheader('Sua primeira despedida, com a família toda na igreja	:cry:')
     st.write('Também não tenho registros :sob: :sob:')
     st.write('Toma essa gostosa')
+    col1, col2, col3, col4, col5, col6 = st.columns(6)
+    with col2:
+        st.image('gatinha2.jpeg', width=400)
+    st.title('ta poxa 	:yum: 	:face_with_spiral_eyes: 	:face_with_spiral_eyes: 	:drooling_face: 	:drooling_face:')
 
 with tab14:
     st.subheader('Sua volta :no_good: :see_no_evil:	:see_no_evil:')
